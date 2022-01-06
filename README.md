@@ -22,3 +22,7 @@ Image Selected – img (13):
 Knowledge graph:
  
 ![image](https://user-images.githubusercontent.com/36981925/148311085-f784c0c7-bc75-40fc-b99b-48a1844c518e.png)
+
+
+#### Step3: 
+Write a computer program to construct the frequency-based knowledge matrix as shown in the subsection 3.2 of the paper “Object Detection Meets Knowledge Graphs”. This frequency-based knowledge matrix has the size of all concepts extracted in the Step1. For example, if 196 concepts are extracted from 100 images in the Step1, this frequency-based knowledge matrix’s size will be 196 x 196. Using the Equation (1) in the paper “Object Detection Meets Knowledge Graphs”, each element value of this matrix can be calculated.
