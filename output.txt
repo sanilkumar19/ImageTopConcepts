@@ -1,0 +1,2808 @@
+dog
+dog: 0.5289167002776546
+cow: 0.5289167002776546
+person: 0.5289167002776546
+traffic light: 0.5289167002776546
+car: 0.5289167002776546
+bird: 0.5289167002776546
+bottle: 0.5289167002776546
+apple: 0.5289167002776546
+orange: 0.5289167002776546
+banana: 0.5289167002776546
+bus: 0.5289167002776546
+handbag: 0.5289167002776546
+chair: 0.5289167002776546
+frisbee: 0.5289167002776546
+umbrella: 0.5289167002776546
+backpack: 0.5289167002776546
+cup: 0.5289167002776546
+bench: 0.5289167002776546
+cake: 0.5289167002776546
+couch: 0.5289167002776546
+toilet: 0.5289167002776546
+bowl: 0.5289167002776546
+toothbrush: 0.5289167002776546
+cat: 0.5289167002776546
+boat: 0.5289167002776546
+laptop: 0.5289167002776546
+remote: 0.5289167002776546
+book: 0.5289167002776546
+vase: 0.5289167002776546
+truck: 0.5289167002776546
+stop sign: 0.5289167002776546
+bed: 0.5289167002776546
+dining table: 0.5289167002776546
+refrigerator: 0.5289167002776546
+surfboard: 0.5289167002776546
+cell phone: 0.5289167002776546
+skateboard: 0.5289167002776546
+oven: 0.5289167002776546
+tv: 0.5289167002776546
+bicycle: 0.5289167002776546
+parking meter: 0.5289167002776546
+potted plant: 0.5289167002776546
+sports ball: 0.5289167002776546
+motorcycle: 0.5289167002776546
+skis: 0.5289167002776546
+suitcase: 0.5289167002776546
+clock: 0.5289167002776546
+tie: 0.5289167002776546
+fork: 0.5289167002776546
+knife: 0.5289167002776546
+spoon: 0.5289167002776546
+sink: 0.5289167002776546
+
+cow
+dog: 0.5289167002776546
+cow: 2.051795445557992
+person: 0.8299466959416358
+traffic light: 0
+car: 1.176734182166292
+bird: 0
+bottle: 0
+apple: 0
+orange: 0
+banana: 1.7507654498940108
+bus: 0
+handbag: 0
+chair: 0
+frisbee: 0
+umbrella: 0
+backpack: 0
+cup: 0
+bench: 0
+cake: 0
+couch: 0
+toilet: 0
+bowl: 0
+toothbrush: 0
+cat: 0
+boat: 0
+laptop: 0
+remote: 0
+book: 0
+vase: 0
+truck: 1.6538554368859546
+stop sign: 0
+bed: 0
+dining table: 0
+refrigerator: 0
+surfboard: 0
+cell phone: 0
+skateboard: 0
+oven: 0
+tv: 0
+bicycle: 1.4497354542300298
+parking meter: 0
+potted plant: 0
+sports ball: 0
+motorcycle: 0
+skis: 0
+suitcase: 0
+clock: 0
+tie: 0
+fork: 0
+knife: 0
+spoon: 0
+sink: 0
+
+person
+dog: 0.5289167002776546
+cow: 0.8299466959416358
+person: 0.8299466959416358
+traffic light: 0.8299466959416358
+car: 0.5569454238778982
+bird: 0.8299466959416358
+bottle: 0.6538554368859546
+apple: 0.8299466959416358
+orange: 0.8299466959416358
+banana: 0.8299466959416358
+bus: 0.5289167002776546
+handbag: 0.8299466959416358
+chair: 0.35282544122197346
+frisbee: 0.580069222725036
+umbrella: 0.8299466959416358
+backpack: 0.8299466959416358
+cup: 0.47776417783027336
+bench: 0.6080979463252795
+cake: 0
+couch: 0.4445958145776188
+toilet: 0.8299466959416358
+bowl: 0.6538554368859546
+toothbrush: 0.8299466959416358
+cat: 0.35282544122197346
+boat: 0.6538554368859546
+laptop: 0.5289167002776546
+remote: 0.22788670461367352
+book: 0.35282544122197346
+vase: 0
+truck: 0.4320066872695983
+stop sign: 0
+bed: 0
+dining table: 0.7050079593333359
+refrigerator: 0.8299466959416358
+surfboard: 0.8299466959416358
+cell phone: 0.8299466959416358
+skateboard: 0
+oven: 0.8299466959416358
+tv: 0.35282544122197346
+bicycle: 0.8299466959416358
+parking meter: 0.8299466959416358
+potted plant: 0.05179544555799231
+sports ball: 0.5289167002776546
+motorcycle: 0.8299466959416358
+skis: 0.8299466959416358
+suitcase: 0.5289167002776546
+clock: 0.8299466959416358
+tie: 0
+fork: 0.8299466959416358
+knife: 0.8299466959416358
+spoon: 0.8299466959416358
+sink: 0.8299466959416358
+
+traffic light
+dog: 0.5289167002776546
+cow: 0
+person: 0.8299466959416358
+traffic light: 2.2278867046136734
+car: 1.3528254412219733
+bird: 2.2278867046136734
+bottle: 0
+apple: 0
+orange: 0
+banana: 0
+bus: 0
+handbag: 0
+chair: 0
+frisbee: 0
+umbrella: 0
+backpack: 1.5289167002776545
+cup: 0
+bench: 0
+cake: 0
+couch: 0
+toilet: 0
+bowl: 0
+toothbrush: 0
+cat: 0
+boat: 0
+laptop: 0
+remote: 0
+book: 0
+vase: 0
+truck: 0
+stop sign: 0
+bed: 0
+dining table: 0
+refrigerator: 0
+surfboard: 0
+cell phone: 0
+skateboard: 0
+oven: 0
+tv: 0
+bicycle: 1.625826713285711
+parking meter: 0
+potted plant: 0
+sports ball: 0
+motorcycle: 0
+skis: 0
+suitcase: 0
+clock: 0
+tie: 0
+fork: 0
+knife: 0
+spoon: 0
+sink: 0
+
+car
+dog: 0.5289167002776546
+cow: 1.176734182166292
+person: 0.5569454238778982
+traffic light: 1.3528254412219733
+car: 1.3528254412219733
+bird: 1.3528254412219733
+bottle: 0.39858293178264853
+apple: 0
+orange: 0
+banana: 1.051795445557992
+bus: 1.051795445557992
+handbag: 0
+chair: 0.1767341821662922
+frisbee: 0.7507654498940111
+umbrella: 0
+backpack: 0.9548854325499359
+cup: 0
+bench: 0.6538554368859546
+cake: 0
+couch: 0
+toilet: 0
+bowl: 0
+toothbrush: 0
+cat: 0
+boat: 0
+laptop: 0
+remote: 0
+book: 0
+vase: 0
+truck: 1.3528254412219733
+stop sign: 1.3528254412219733
+bed: 0
+dining table: 0
+refrigerator: 0
+surfboard: 0
+cell phone: 0
+skateboard: 0
+oven: 0
+tv: 0
+bicycle: 1.051795445557992
+parking meter: 0
+potted plant: 0.5746741908383298
+sports ball: 0.7507654498940111
+motorcycle: 0
+skis: 0
+suitcase: 0
+clock: 1.051795445557992
+tie: 1.3528254412219733
+fork: 0
+knife: 0
+spoon: 0
+sink: 0
+
+bird
+dog: 0.5289167002776546
+cow: 0
+person: 0.8299466959416358
+traffic light: 2.2278867046136734
+car: 1.3528254412219733
+bird: 2.5289167002776547
+bottle: 0
+apple: 0
+orange: 0
+banana: 0
+bus: 0
+handbag: 0
+chair: 0
+frisbee: 0
+umbrella: 0
+backpack: 0
+cup: 0
+bench: 0
+cake: 0
+couch: 0
+toilet: 0
+bowl: 0
+toothbrush: 0
+cat: 0
+boat: 0
+laptop: 0
+remote: 0
+book: 0
+vase: 0
+truck: 0
+stop sign: 0
+bed: 0
+dining table: 0
+refrigerator: 0
+surfboard: 0
+cell phone: 0
+skateboard: 0
+oven: 0
+tv: 0
+bicycle: 0
+parking meter: 0
+potted plant: 0
+sports ball: 0
+motorcycle: 0
+skis: 0
+suitcase: 0
+clock: 0
+tie: 0
+fork: 0
+knife: 0
+spoon: 0
+sink: 0
+
+bottle
+dog: 0.5289167002776546
+cow: 0
+person: 0.6538554368859546
+traffic light: 0
+car: 0.39858293178264853
+bird: 0
+bottle: 1.5746741908383297
+apple: 1.5746741908383297
+orange: 1.5746741908383297
+banana: 1.2736441951743485
+bus: 0
+handbag: 0
+chair: 0.6996129274466297
+frisbee: 0.37055420818240503
+umbrella: 0
+backpack: 0.8757041865023109
+cup: 0.921461677062986
+bench: 0
+cake: 0
+couch: 0.34422526946005594
+toilet: 0
+bowl: 0
+toothbrush: 0
+cat: 1.0975529361186673
+boat: 0
+laptop: 0
+remote: 0
+book: 1.0975529361186673
+vase: 0
+truck: 0
+stop sign: 0
+bed: 0
+dining table: 0.9726141995103674
+refrigerator: 1.5746741908383297
+surfboard: 0
+cell phone: 0
+skateboard: 0
+oven: 1.5746741908383297
+tv: 0
+bicycle: 0
+parking meter: 0
+potted plant: 0
+sports ball: 0
+motorcycle: 0
+skis: 0
+suitcase: 0
+clock: 1.5746741908383297
+tie: 0
+fork: 0
+knife: 0
+spoon: 0
+sink: 0
+
+apple
+dog: 0.5289167002776546
+cow: 0
+person: 0.8299466959416358
+traffic light: 0
+car: 0
+bird: 0
+bottle: 1.5746741908383297
+apple: 2.5289167002776547
+orange: 2.5289167002776547
+banana: 2.2278867046136734
+bus: 0
+handbag: 0
+chair: 0
+frisbee: 0
+umbrella: 0
+backpack: 0
+cup: 0
+bench: 0
+cake: 0
+couch: 0
+toilet: 0
+bowl: 0
+toothbrush: 0
+cat: 0
+boat: 0
+laptop: 0
+remote: 0
+book: 0
+vase: 0
+truck: 0
+stop sign: 0
+bed: 0
+dining table: 0
+refrigerator: 0
+surfboard: 0
+cell phone: 0
+skateboard: 0
+oven: 0
+tv: 0
+bicycle: 0
+parking meter: 0
+potted plant: 0
+sports ball: 0
+motorcycle: 0
+skis: 0
+suitcase: 0
+clock: 2.2278867046136734
+tie: 0
+fork: 0
+knife: 0
+spoon: 0
+sink: 0
+
+orange
+dog: 0.5289167002776546
+cow: 0
+person: 0.8299466959416358
+traffic light: 0
+car: 0
+bird: 0
+bottle: 1.5746741908383297
+apple: 2.5289167002776547
+orange: 2.5289167002776547
+banana: 2.2278867046136734
+bus: 0
+handbag: 0
+chair: 0
+frisbee: 0
+umbrella: 0
+backpack: 0
+cup: 0
+bench: 0
+cake: 0
+couch: 0
+toilet: 0
+bowl: 0
+toothbrush: 0
+cat: 0
+boat: 0
+laptop: 0
+remote: 0
+book: 0
+vase: 0
+truck: 0
+stop sign: 0
+bed: 0
+dining table: 0
+refrigerator: 0
+surfboard: 0
+cell phone: 0
+skateboard: 0
+oven: 0
+tv: 0
+bicycle: 0
+parking meter: 0
+potted plant: 0
+sports ball: 0
+motorcycle: 0
+skis: 0
+suitcase: 0
+clock: 2.2278867046136734
+tie: 0
+fork: 0
+knife: 0
+spoon: 0
+sink: 0
+
+banana
+dog: 0.5289167002776546
+cow: 1.7507654498940108
+person: 0.8299466959416358
+traffic light: 0
+car: 1.051795445557992
+bird: 0
+bottle: 1.2736441951743485
+apple: 2.2278867046136734
+orange: 2.2278867046136734
+banana: 2.2278867046136734
+bus: 0
+handbag: 0
+chair: 0
+frisbee: 0
+umbrella: 0
+backpack: 0
+cup: 0
+bench: 0
+cake: 0
+couch: 0
+toilet: 0
+bowl: 0
+toothbrush: 0
+cat: 0
+boat: 0
+laptop: 0
+remote: 0
+book: 0
+vase: 0
+truck: 1.5289167002776545
+stop sign: 0
+bed: 0
+dining table: 0
+refrigerator: 0
+surfboard: 0
+cell phone: 0
+skateboard: 0
+oven: 0
+tv: 0
+bicycle: 0
+parking meter: 0
+potted plant: 0
+sports ball: 0
+motorcycle: 0
+skis: 0
+suitcase: 0
+clock: 1.9268567089496922
+tie: 0
+fork: 0
+knife: 0
+spoon: 0
+sink: 0
+
+bus
+dog: 0.5289167002776546
+cow: 0
+person: 0.5289167002776546
+traffic light: 0
+car: 1.051795445557992
+bird: 0
+bottle: 0
+apple: 0
+orange: 0
+banana: 0
+bus: 2.2278867046136734
+handbag: 1.7507654498940108
+chair: 0
+frisbee: 0
+umbrella: 0
+backpack: 1.5289167002776545
+cup: 0
+bench: 0
+cake: 0
+couch: 0
+toilet: 0
+bowl: 0
+toothbrush: 0
+cat: 0
+boat: 0
+laptop: 0
+remote: 0
+book: 0
+vase: 0
+truck: 1.5289167002776545
+stop sign: 0
+bed: 0
+dining table: 0
+refrigerator: 0
+surfboard: 0
+cell phone: 1.7507654498940108
+skateboard: 0
+oven: 0
+tv: 0
+bicycle: 0
+parking meter: 0
+potted plant: 0
+sports ball: 0
+motorcycle: 0
+skis: 0
+suitcase: 0
+clock: 0
+tie: 0
+fork: 0
+knife: 0
+spoon: 0
+sink: 0
+
+handbag
+dog: 0.5289167002776546
+cow: 0
+person: 0.8299466959416358
+traffic light: 0
+car: 0
+bird: 0
+bottle: 0
+apple: 0
+orange: 0
+banana: 0
+bus: 1.7507654498940108
+handbag: 2.051795445557992
+chair: 0
+frisbee: 0
+umbrella: 0
+backpack: 1.3528254412219733
+cup: 0
+bench: 0
+cake: 0
+couch: 0
+toilet: 0
+bowl: 1.5746741908383297
+toothbrush: 0
+cat: 1.5746741908383297
+boat: 0
+laptop: 0
+remote: 0
+book: 0
+vase: 0
+truck: 0
+stop sign: 0
+bed: 0
+dining table: 0
+refrigerator: 0
+surfboard: 0
+cell phone: 1.5746741908383297
+skateboard: 0
+oven: 0
+tv: 0
+bicycle: 1.4497354542300298
+parking meter: 2.051795445557992
+potted plant: 0
+sports ball: 0
+motorcycle: 0
+skis: 0
+suitcase: 1.7507654498940108
+clock: 0
+tie: 0
+fork: 0
+knife: 0
+spoon: 0
+sink: 0
+
+chair
+dog: 0.5289167002776546
+cow: 0
+person: 0.35282544122197346
+traffic light: 0
+car: 0.1767341821662922
+bird: 0
+bottle: 0.6996129274466297
+apple: 0
+orange: 0
+banana: 0
+bus: 0
+handbag: 0
+chair: 1.3528254412219733
+frisbee: 0.44973545423002986
+umbrella: 0
+backpack: 0.6538554368859546
+cup: 0.8757041865023109
+bench: 0
+cake: 0
+couch: 0.4234065155076807
+toilet: 0
+bowl: 0
+toothbrush: 0
+cat: 0
+boat: 0
+laptop: 1.051795445557992
+remote: 1.051795445557992
+book: 1.176734182166292
+vase: 1.051795445557992
+truck: 0.6538554368859546
+stop sign: 0
+bed: 0
+dining table: 1.2278867046136734
+refrigerator: 1.051795445557992
+surfboard: 0
+cell phone: 0
+skateboard: 0
+oven: 0
+tv: 0.8757041865023109
+bicycle: 0
+parking meter: 0
+potted plant: 0.8757041865023109
+sports ball: 0.7507654498940111
+motorcycle: 0
+skis: 0
+suitcase: 0
+clock: 0
+tie: 0
+fork: 0
+knife: 0
+spoon: 0
+sink: 0
+
+frisbee
+dog: 0.5289167002776546
+cow: 0
+person: 0.580069222725036
+traffic light: 0
+car: 0.7507654498940111
+bird: 0
+bottle: 0.37055420818240503
+apple: 0
+orange: 0
+banana: 0
+bus: 0
+handbag: 0
+chair: 0.44973545423002986
+frisbee: 1.32479671762173
+umbrella: 1.0237667219577486
+backpack: 0.625826713285711
+cup: 0.37055420818240503
+bench: 0.625826713285711
+cake: 0
+couch: 0
+toilet: 0
+bowl: 0
+toothbrush: 0
+cat: 0
+boat: 0
+laptop: 0
+remote: 0
+book: 0
+vase: 0
+truck: 0.9268567089496921
+stop sign: 1.32479671762173
+bed: 0
+dining table: 0
+refrigerator: 0
+surfboard: 0
+cell phone: 0
+skateboard: 0
+oven: 0
+tv: 0
+bicycle: 0
+parking meter: 0
+potted plant: 0
+sports ball: 0
+motorcycle: 0
+skis: 0
+suitcase: 0
+clock: 0
+tie: 0
+fork: 0
+knife: 0
+spoon: 0
+sink: 0
+
+umbrella
+dog: 0.5289167002776546
+cow: 0
+person: 0.8299466959416358
+traffic light: 0
+car: 0
+bird: 0
+bottle: 0
+apple: 0
+orange: 0
+banana: 0
+bus: 0
+handbag: 0
+chair: 0
+frisbee: 1.0237667219577486
+umbrella: 2.2278867046136734
+backpack: 0
+cup: 0
+bench: 0
+cake: 0
+couch: 0
+toilet: 0
+bowl: 0
+toothbrush: 0
+cat: 0
+boat: 0
+laptop: 0
+remote: 0
+book: 0
+vase: 0
+truck: 0
+stop sign: 0
+bed: 0
+dining table: 0
+refrigerator: 0
+surfboard: 0
+cell phone: 0
+skateboard: 0
+oven: 0
+tv: 0
+bicycle: 0
+parking meter: 0
+potted plant: 0
+sports ball: 0
+motorcycle: 0
+skis: 0
+suitcase: 0
+clock: 0
+tie: 0
+fork: 0
+knife: 0
+spoon: 0
+sink: 0
+
+backpack
+dog: 0.5289167002776546
+cow: 0
+person: 0.8299466959416358
+traffic light: 1.5289167002776545
+car: 0.9548854325499359
+bird: 0
+bottle: 0.8757041865023109
+apple: 0
+orange: 0
+banana: 0
+bus: 1.5289167002776545
+handbag: 1.3528254412219733
+chair: 0.6538554368859546
+frisbee: 0.625826713285711
+umbrella: 0
+backpack: 1.8299466959416357
+cup: 0.8757041865023109
+bench: 0
+cake: 0
+couch: 0
+toilet: 0
+bowl: 0
+toothbrush: 0
+cat: 0
+boat: 0
+laptop: 0
+remote: 0
+book: 0
+vase: 0
+truck: 0
+stop sign: 0
+bed: 0
+dining table: 0
+refrigerator: 0
+surfboard: 0
+cell phone: 1.3528254412219733
+skateboard: 0
+oven: 0
+tv: 0
+bicycle: 1.2278867046136734
+parking meter: 0
+potted plant: 0
+sports ball: 1.2278867046136734
+motorcycle: 0
+skis: 0
+suitcase: 0
+clock: 0
+tie: 0
+fork: 0
+knife: 0
+spoon: 0
+sink: 0
+
+cup
+dog: 0.5289167002776546
+cow: 0
+person: 0.47776417783027336
+traffic light: 0
+car: 0
+bird: 0
+bottle: 0.921461677062986
+apple: 0
+orange: 0
+banana: 0
+bus: 0
+handbag: 0
+chair: 0.8757041865023109
+frisbee: 0.37055420818240503
+umbrella: 0
+backpack: 0.8757041865023109
+cup: 1.5746741908383297
+bench: 0.8757041865023109
+cake: 0
+couch: 0.34422526946005594
+toilet: 0
+bowl: 1.0975529361186673
+toothbrush: 0
+cat: 0
+boat: 0
+laptop: 1.2736441951743485
+remote: 0.9726141995103674
+book: 1.2736441951743485
+vase: 1.2736441951743485
+truck: 0
+stop sign: 0
+bed: 0
+dining table: 1.2736441951743485
+refrigerator: 0
+surfboard: 0
+cell phone: 0
+skateboard: 0
+oven: 0
+tv: 1.0975529361186673
+bicycle: 0
+parking meter: 0
+potted plant: 1.2736441951743485
+sports ball: 0
+motorcycle: 0
+skis: 0
+suitcase: 0
+clock: 0
+tie: 0
+fork: 1.5746741908383297
+knife: 1.5746741908383297
+spoon: 1.5746741908383297
+sink: 1.5746741908383297
+
+bench
+dog: 0.5289167002776546
+cow: 0
+person: 0.6080979463252795
+traffic light: 0
+car: 0.6538554368859546
+bird: 0
+bottle: 0
+apple: 0
+orange: 0
+banana: 0
+bus: 0
+handbag: 0
+chair: 0
+frisbee: 0.625826713285711
+umbrella: 0
+backpack: 0
+cup: 0.8757041865023109
+bench: 1.8299466959416357
+cake: 0
+couch: 0
+toilet: 0
+bowl: 0
+toothbrush: 0
+cat: 0
+boat: 0
+laptop: 0
+remote: 0
+book: 0
+vase: 0
+truck: 0
+stop sign: 0
+bed: 0
+dining table: 1.2278867046136734
+refrigerator: 0
+surfboard: 0
+cell phone: 0
+skateboard: 0
+oven: 0
+tv: 0
+bicycle: 1.2278867046136734
+parking meter: 0
+potted plant: 0
+sports ball: 0
+motorcycle: 1.5289167002776545
+skis: 0
+suitcase: 0
+clock: 0
+tie: 0
+fork: 0
+knife: 0
+spoon: 0
+sink: 0
+
+cake
+dog: 0.5289167002776546
+cow: 0
+person: 0
+traffic light: 0
+car: 0
+bird: 0
+bottle: 0
+apple: 0
+orange: 0
+banana: 0
+bus: 0
+handbag: 0
+chair: 0
+frisbee: 0
+umbrella: 0
+backpack: 0
+cup: 0
+bench: 0
+cake: 2.2278867046136734
+couch: 0.9974377832353994
+toilet: 0
+bowl: 0
+toothbrush: 0
+cat: 0
+boat: 0
+laptop: 0
+remote: 0
+book: 0
+vase: 0
+truck: 0
+stop sign: 0
+bed: 0
+dining table: 0
+refrigerator: 0
+surfboard: 0
+cell phone: 0
+skateboard: 0
+oven: 0
+tv: 0
+bicycle: 0
+parking meter: 0
+potted plant: 0
+sports ball: 0
+motorcycle: 0
+skis: 0
+suitcase: 0
+clock: 0
+tie: 0
+fork: 0
+knife: 0
+spoon: 0
+sink: 0
+
+couch
+dog: 0.5289167002776546
+cow: 0
+person: 0.4445958145776188
+traffic light: 0
+car: 0
+bird: 0
+bottle: 0.34422526946005594
+apple: 0
+orange: 0
+banana: 0
+bus: 0
+handbag: 0
+chair: 0.4234065155076807
+frisbee: 0
+umbrella: 0
+backpack: 0
+cup: 0.34422526946005594
+bench: 0
+cake: 0.9974377832353994
+couch: 1.2984677788993806
+toilet: 0
+bowl: 0
+toothbrush: 0
+cat: 0.8213465241797183
+boat: 0
+laptop: 1.2984677788993806
+remote: 1.173529042291081
+book: 0.8213465241797183
+vase: 0.9974377832353994
+truck: 0
+stop sign: 0
+bed: 0
+dining table: 0
+refrigerator: 0
+surfboard: 0
+cell phone: 0.8213465241797183
+skateboard: 0
+oven: 0
+tv: 0.8213465241797183
+bicycle: 0
+parking meter: 0
+potted plant: 0.5203165285157372
+sports ball: 0
+motorcycle: 0
+skis: 0
+suitcase: 0
+clock: 0
+tie: 0
+fork: 0
+knife: 0
+spoon: 0
+sink: 0
+
+toilet
+dog: 0.5289167002776546
+cow: 0
+person: 0.8299466959416358
+traffic light: 0
+car: 0
+bird: 0
+bottle: 0
+apple: 0
+orange: 0
+banana: 0
+bus: 0
+handbag: 0
+chair: 0
+frisbee: 0
+umbrella: 0
+backpack: 0
+cup: 0
+bench: 0
+cake: 0
+couch: 0
+toilet: 2.5289167002776547
+bowl: 2.051795445557992
+toothbrush: 2.5289167002776547
+cat: 0
+boat: 0
+laptop: 0
+remote: 0
+book: 0
+vase: 0
+truck: 0
+stop sign: 0
+bed: 0
+dining table: 0
+refrigerator: 0
+surfboard: 0
+cell phone: 0
+skateboard: 0
+oven: 0
+tv: 0
+bicycle: 0
+parking meter: 0
+potted plant: 0
+sports ball: 0
+motorcycle: 0
+skis: 0
+suitcase: 0
+clock: 0
+tie: 0
+fork: 0
+knife: 0
+spoon: 0
+sink: 0
+
+bowl
+dog: 0.5289167002776546
+cow: 0
+person: 0.6538554368859546
+traffic light: 0
+car: 0
+bird: 0
+bottle: 0
+apple: 0
+orange: 0
+banana: 0
+bus: 0
+handbag: 1.5746741908383297
+chair: 0
+frisbee: 0
+umbrella: 0
+backpack: 0
+cup: 1.0975529361186673
+bench: 0
+cake: 0
+couch: 0
+toilet: 2.051795445557992
+bowl: 2.051795445557992
+toothbrush: 2.051795445557992
+cat: 1.5746741908383297
+boat: 0
+laptop: 0
+remote: 0
+book: 1.2736441951743485
+vase: 0
+truck: 0
+stop sign: 0
+bed: 0
+dining table: 0
+refrigerator: 0
+surfboard: 0
+cell phone: 0
+skateboard: 0
+oven: 0
+tv: 0
+bicycle: 0
+parking meter: 0
+potted plant: 1.2736441951743485
+sports ball: 0
+motorcycle: 0
+skis: 0
+suitcase: 1.7507654498940108
+clock: 0
+tie: 0
+fork: 0
+knife: 0
+spoon: 0
+sink: 0
+
+toothbrush
+dog: 0.5289167002776546
+cow: 0
+person: 0.8299466959416358
+traffic light: 0
+car: 0
+bird: 0
+bottle: 0
+apple: 0
+orange: 0
+banana: 0
+bus: 0
+handbag: 0
+chair: 0
+frisbee: 0
+umbrella: 0
+backpack: 0
+cup: 0
+bench: 0
+cake: 0
+couch: 0
+toilet: 2.5289167002776547
+bowl: 2.051795445557992
+toothbrush: 2.5289167002776547
+cat: 0
+boat: 0
+laptop: 0
+remote: 0
+book: 0
+vase: 0
+truck: 0
+stop sign: 0
+bed: 0
+dining table: 0
+refrigerator: 0
+surfboard: 0
+cell phone: 0
+skateboard: 0
+oven: 0
+tv: 0
+bicycle: 0
+parking meter: 0
+potted plant: 0
+sports ball: 0
+motorcycle: 0
+skis: 0
+suitcase: 0
+clock: 0
+tie: 0
+fork: 0
+knife: 0
+spoon: 0
+sink: 0
+
+cat
+dog: 0.5289167002776546
+cow: 0
+person: 0.35282544122197346
+traffic light: 0
+car: 0
+bird: 0
+bottle: 1.0975529361186673
+apple: 0
+orange: 0
+banana: 0
+bus: 0
+handbag: 1.5746741908383297
+chair: 0
+frisbee: 0
+umbrella: 0
+backpack: 0
+cup: 0
+bench: 0
+cake: 0
+couch: 0.8213465241797183
+toilet: 0
+bowl: 1.5746741908383297
+toothbrush: 0
+cat: 2.051795445557992
+boat: 0
+laptop: 0
+remote: 0
+book: 0
+vase: 0
+truck: 0
+stop sign: 0
+bed: 0
+dining table: 0
+refrigerator: 0
+surfboard: 0
+cell phone: 0
+skateboard: 0
+oven: 0
+tv: 0
+bicycle: 0
+parking meter: 0
+potted plant: 0
+sports ball: 0
+motorcycle: 0
+skis: 0
+suitcase: 1.7507654498940108
+clock: 0
+tie: 0
+fork: 0
+knife: 0
+spoon: 0
+sink: 0
+
+boat
+dog: 0.5289167002776546
+cow: 0
+person: 0.6538554368859546
+traffic light: 0
+car: 0
+bird: 0
+bottle: 0
+apple: 0
+orange: 0
+banana: 0
+bus: 0
+handbag: 0
+chair: 0
+frisbee: 0
+umbrella: 0
+backpack: 0
+cup: 0
+bench: 0
+cake: 0
+couch: 0
+toilet: 0
+bowl: 0
+toothbrush: 0
+cat: 0
+boat: 2.051795445557992
+laptop: 0
+remote: 0
+book: 0
+vase: 0
+truck: 0
+stop sign: 0
+bed: 0
+dining table: 0
+refrigerator: 0
+surfboard: 0
+cell phone: 0
+skateboard: 0
+oven: 0
+tv: 0
+bicycle: 0
+parking meter: 0
+potted plant: 0
+sports ball: 0
+motorcycle: 0
+skis: 0
+suitcase: 0
+clock: 0
+tie: 0
+fork: 0
+knife: 0
+spoon: 0
+sink: 0
+
+laptop
+dog: 0.5289167002776546
+cow: 0
+person: 0.5289167002776546
+traffic light: 0
+car: 0
+bird: 0
+bottle: 0
+apple: 0
+orange: 0
+banana: 0
+bus: 0
+handbag: 0
+chair: 1.051795445557992
+frisbee: 0
+umbrella: 0
+backpack: 0
+cup: 1.2736441951743485
+bench: 0
+cake: 0
+couch: 1.2984677788993806
+toilet: 0
+bowl: 0
+toothbrush: 0
+cat: 0
+boat: 0
+laptop: 2.2278867046136734
+remote: 1.625826713285711
+book: 1.4497354542300298
+vase: 1.9268567089496922
+truck: 0
+stop sign: 0
+bed: 0
+dining table: 0
+refrigerator: 0
+surfboard: 0
+cell phone: 0
+skateboard: 0
+oven: 0
+tv: 0
+bicycle: 0
+parking meter: 0
+potted plant: 0
+sports ball: 0
+motorcycle: 0
+skis: 0
+suitcase: 0
+clock: 0
+tie: 0
+fork: 0
+knife: 0
+spoon: 0
+sink: 0
+
+remote
+dog: 0.5289167002776546
+cow: 0
+person: 0.22788670461367352
+traffic light: 0
+car: 0
+bird: 0
+bottle: 0
+apple: 0
+orange: 0
+banana: 0
+bus: 0
+handbag: 0
+chair: 1.051795445557992
+frisbee: 0
+umbrella: 0
+backpack: 0
+cup: 0.9726141995103674
+bench: 0
+cake: 0
+couch: 1.173529042291081
+toilet: 0
+bowl: 0
+toothbrush: 0
+cat: 0
+boat: 0
+laptop: 1.625826713285711
+remote: 1.9268567089496922
+book: 1.1487054585660486
+vase: 1.625826713285711
+truck: 0
+stop sign: 0
+bed: 0
+dining table: 1.32479671762173
+refrigerator: 0
+surfboard: 0
+cell phone: 0
+skateboard: 0
+oven: 0
+tv: 1.4497354542300298
+bicycle: 0
+parking meter: 0
+potted plant: 0
+sports ball: 0
+motorcycle: 0
+skis: 0
+suitcase: 0
+clock: 0
+tie: 0
+fork: 0
+knife: 0
+spoon: 0
+sink: 0
+
+book
+dog: 0.5289167002776546
+cow: 0
+person: 0.35282544122197346
+traffic light: 0
+car: 0
+bird: 0
+bottle: 1.0975529361186673
+apple: 0
+orange: 0
+banana: 0
+bus: 0
+handbag: 0
+chair: 1.176734182166292
+frisbee: 0
+umbrella: 0
+backpack: 0
+cup: 1.2736441951743485
+bench: 0
+cake: 0
+couch: 0.8213465241797183
+toilet: 0
+bowl: 1.2736441951743485
+toothbrush: 0
+cat: 0
+boat: 0
+laptop: 1.4497354542300298
+remote: 1.1487054585660486
+book: 1.7507654498940108
+vase: 1.4497354542300298
+truck: 0
+stop sign: 0
+bed: 0
+dining table: 1.4497354542300298
+refrigerator: 1.4497354542300298
+surfboard: 0
+cell phone: 0
+skateboard: 0
+oven: 0
+tv: 0
+bicycle: 0
+parking meter: 0
+potted plant: 1.2736441951743485
+sports ball: 0
+motorcycle: 0
+skis: 0
+suitcase: 0
+clock: 0
+tie: 0
+fork: 0
+knife: 0
+spoon: 0
+sink: 0
+
+vase
+dog: 0.5289167002776546
+cow: 0
+person: 0
+traffic light: 0
+car: 0
+bird: 0
+bottle: 0
+apple: 0
+orange: 0
+banana: 0
+bus: 0
+handbag: 0
+chair: 1.051795445557992
+frisbee: 0
+umbrella: 0
+backpack: 0
+cup: 1.2736441951743485
+bench: 0
+cake: 0
+couch: 0.9974377832353994
+toilet: 0
+bowl: 0
+toothbrush: 0
+cat: 0
+boat: 0
+laptop: 1.9268567089496922
+remote: 1.625826713285711
+book: 1.4497354542300298
+vase: 2.2278867046136734
+truck: 0
+stop sign: 0
+bed: 0
+dining table: 0
+refrigerator: 0
+surfboard: 0
+cell phone: 0
+skateboard: 0
+oven: 0
+tv: 0
+bicycle: 0
+parking meter: 0
+potted plant: 1.4497354542300298
+sports ball: 0
+motorcycle: 0
+skis: 0
+suitcase: 0
+clock: 0
+tie: 0
+fork: 0
+knife: 0
+spoon: 0
+sink: 0
+
+truck
+dog: 0.5289167002776546
+cow: 1.6538554368859546
+person: 0.4320066872695983
+traffic light: 0
+car: 1.3528254412219733
+bird: 0
+bottle: 0
+apple: 0
+orange: 0
+banana: 1.5289167002776545
+bus: 1.5289167002776545
+handbag: 0
+chair: 0.6538554368859546
+frisbee: 0.9268567089496921
+umbrella: 0
+backpack: 0
+cup: 0
+bench: 0
+cake: 0
+couch: 0
+toilet: 0
+bowl: 0
+toothbrush: 0
+cat: 0
+boat: 0
+laptop: 0
+remote: 0
+book: 0
+vase: 0
+truck: 1.8299466959416357
+stop sign: 1.8299466959416357
+bed: 0
+dining table: 0
+refrigerator: 0
+surfboard: 0
+cell phone: 0
+skateboard: 0
+oven: 0
+tv: 0
+bicycle: 1.2278867046136734
+parking meter: 0
+potted plant: 0
+sports ball: 0
+motorcycle: 0
+skis: 0
+suitcase: 0
+clock: 0
+tie: 0
+fork: 0
+knife: 0
+spoon: 0
+sink: 0
+
+stop sign
+dog: 0.5289167002776546
+cow: 0
+person: 0
+traffic light: 0
+car: 1.3528254412219733
+bird: 0
+bottle: 0
+apple: 0
+orange: 0
+banana: 0
+bus: 0
+handbag: 0
+chair: 0
+frisbee: 1.32479671762173
+umbrella: 0
+backpack: 0
+cup: 0
+bench: 0
+cake: 0
+couch: 0
+toilet: 0
+bowl: 0
+toothbrush: 0
+cat: 0
+boat: 0
+laptop: 0
+remote: 0
+book: 0
+vase: 0
+truck: 1.8299466959416357
+stop sign: 2.5289167002776547
+bed: 0
+dining table: 0
+refrigerator: 0
+surfboard: 0
+cell phone: 0
+skateboard: 0
+oven: 0
+tv: 0
+bicycle: 0
+parking meter: 0
+potted plant: 0
+sports ball: 0
+motorcycle: 0
+skis: 0
+suitcase: 0
+clock: 0
+tie: 0
+fork: 0
+knife: 0
+spoon: 0
+sink: 0
+
+bed
+dog: 0.5289167002776546
+cow: 0
+person: 0
+traffic light: 0
+car: 0
+bird: 0
+bottle: 0
+apple: 0
+orange: 0
+banana: 0
+bus: 0
+handbag: 0
+chair: 0
+frisbee: 0
+umbrella: 0
+backpack: 0
+cup: 0
+bench: 0
+cake: 0
+couch: 0
+toilet: 0
+bowl: 0
+toothbrush: 0
+cat: 0
+boat: 0
+laptop: 0
+remote: 0
+book: 0
+vase: 0
+truck: 0
+stop sign: 0
+bed: 2.2278867046136734
+dining table: 0
+refrigerator: 0
+surfboard: 0
+cell phone: 0
+skateboard: 0
+oven: 0
+tv: 0
+bicycle: 0
+parking meter: 0
+potted plant: 0
+sports ball: 0
+motorcycle: 0
+skis: 0
+suitcase: 0
+clock: 0
+tie: 0
+fork: 0
+knife: 0
+spoon: 0
+sink: 0
+
+dining table
+dog: 0.5289167002776546
+cow: 0
+person: 0.7050079593333359
+traffic light: 0
+car: 0
+bird: 0
+bottle: 0.9726141995103674
+apple: 0
+orange: 0
+banana: 0
+bus: 0
+handbag: 0
+chair: 1.2278867046136734
+frisbee: 0
+umbrella: 0
+backpack: 0
+cup: 1.2736441951743485
+bench: 1.2278867046136734
+cake: 0
+couch: 0
+toilet: 0
+bowl: 0
+toothbrush: 0
+cat: 0
+boat: 0
+laptop: 0
+remote: 1.32479671762173
+book: 1.4497354542300298
+vase: 0
+truck: 0
+stop sign: 0
+bed: 0
+dining table: 1.9268567089496922
+refrigerator: 1.625826713285711
+surfboard: 0
+cell phone: 0
+skateboard: 0
+oven: 0
+tv: 1.4497354542300298
+bicycle: 0
+parking meter: 0
+potted plant: 1.1487054585660486
+sports ball: 0
+motorcycle: 0
+skis: 0
+suitcase: 0
+clock: 0
+tie: 0
+fork: 0
+knife: 0
+spoon: 0
+sink: 0
+
+refrigerator
+dog: 0.5289167002776546
+cow: 0
+person: 0.8299466959416358
+traffic light: 0
+car: 0
+bird: 0
+bottle: 1.5746741908383297
+apple: 0
+orange: 0
+banana: 0
+bus: 0
+handbag: 0
+chair: 1.051795445557992
+frisbee: 0
+umbrella: 0
+backpack: 0
+cup: 0
+bench: 0
+cake: 0
+couch: 0
+toilet: 0
+bowl: 0
+toothbrush: 0
+cat: 0
+boat: 0
+laptop: 0
+remote: 0
+book: 1.4497354542300298
+vase: 0
+truck: 0
+stop sign: 0
+bed: 0
+dining table: 1.625826713285711
+refrigerator: 2.2278867046136734
+surfboard: 0
+cell phone: 0
+skateboard: 0
+oven: 2.2278867046136734
+tv: 0
+bicycle: 0
+parking meter: 0
+potted plant: 0
+sports ball: 0
+motorcycle: 0
+skis: 0
+suitcase: 0
+clock: 0
+tie: 0
+fork: 0
+knife: 0
+spoon: 0
+sink: 0
+
+surfboard
+dog: 0.5289167002776546
+cow: 0
+person: 0.8299466959416358
+traffic light: 0
+car: 0
+bird: 0
+bottle: 0
+apple: 0
+orange: 0
+banana: 0
+bus: 0
+handbag: 0
+chair: 0
+frisbee: 0
+umbrella: 0
+backpack: 0
+cup: 0
+bench: 0
+cake: 0
+couch: 0
+toilet: 0
+bowl: 0
+toothbrush: 0
+cat: 0
+boat: 0
+laptop: 0
+remote: 0
+book: 0
+vase: 0
+truck: 0
+stop sign: 0
+bed: 0
+dining table: 0
+refrigerator: 0
+surfboard: 2.051795445557992
+cell phone: 0
+skateboard: 0
+oven: 0
+tv: 0
+bicycle: 0
+parking meter: 0
+potted plant: 0
+sports ball: 0
+motorcycle: 0
+skis: 0
+suitcase: 0
+clock: 0
+tie: 0
+fork: 0
+knife: 0
+spoon: 0
+sink: 0
+
+cell phone
+dog: 0.5289167002776546
+cow: 0
+person: 0.8299466959416358
+traffic light: 0
+car: 0
+bird: 0
+bottle: 0
+apple: 0
+orange: 0
+banana: 0
+bus: 1.7507654498940108
+handbag: 1.5746741908383297
+chair: 0
+frisbee: 0
+umbrella: 0
+backpack: 1.3528254412219733
+cup: 0
+bench: 0
+cake: 0
+couch: 0.8213465241797183
+toilet: 0
+bowl: 0
+toothbrush: 0
+cat: 0
+boat: 0
+laptop: 0
+remote: 0
+book: 0
+vase: 0
+truck: 0
+stop sign: 0
+bed: 0
+dining table: 0
+refrigerator: 0
+surfboard: 0
+cell phone: 2.051795445557992
+skateboard: 0
+oven: 0
+tv: 0
+bicycle: 0
+parking meter: 0
+potted plant: 0
+sports ball: 0
+motorcycle: 0
+skis: 0
+suitcase: 0
+clock: 0
+tie: 0
+fork: 0
+knife: 0
+spoon: 0
+sink: 0
+
+skateboard
+dog: 0.5289167002776546
+cow: 0
+person: 0
+traffic light: 0
+car: 0
+bird: 0
+bottle: 0
+apple: 0
+orange: 0
+banana: 0
+bus: 0
+handbag: 0
+chair: 0
+frisbee: 0
+umbrella: 0
+backpack: 0
+cup: 0
+bench: 0
+cake: 0
+couch: 0
+toilet: 0
+bowl: 0
+toothbrush: 0
+cat: 0
+boat: 0
+laptop: 0
+remote: 0
+book: 0
+vase: 0
+truck: 0
+stop sign: 0
+bed: 0
+dining table: 0
+refrigerator: 0
+surfboard: 0
+cell phone: 0
+skateboard: 2.2278867046136734
+oven: 0
+tv: 0
+bicycle: 0
+parking meter: 0
+potted plant: 0
+sports ball: 0
+motorcycle: 0
+skis: 0
+suitcase: 0
+clock: 0
+tie: 0
+fork: 0
+knife: 0
+spoon: 0
+sink: 0
+
+oven
+dog: 0.5289167002776546
+cow: 0
+person: 0.8299466959416358
+traffic light: 0
+car: 0
+bird: 0
+bottle: 1.5746741908383297
+apple: 0
+orange: 0
+banana: 0
+bus: 0
+handbag: 0
+chair: 0
+frisbee: 0
+umbrella: 0
+backpack: 0
+cup: 0
+bench: 0
+cake: 0
+couch: 0
+toilet: 0
+bowl: 0
+toothbrush: 0
+cat: 0
+boat: 0
+laptop: 0
+remote: 0
+book: 0
+vase: 0
+truck: 0
+stop sign: 0
+bed: 0
+dining table: 0
+refrigerator: 2.2278867046136734
+surfboard: 0
+cell phone: 0
+skateboard: 0
+oven: 2.5289167002776547
+tv: 0
+bicycle: 0
+parking meter: 0
+potted plant: 0
+sports ball: 0
+motorcycle: 0
+skis: 0
+suitcase: 0
+clock: 0
+tie: 0
+fork: 0
+knife: 0
+spoon: 0
+sink: 0
+
+tv
+dog: 0.5289167002776546
+cow: 0
+person: 0.35282544122197346
+traffic light: 0
+car: 0
+bird: 0
+bottle: 0
+apple: 0
+orange: 0
+banana: 0
+bus: 0
+handbag: 0
+chair: 0.8757041865023109
+frisbee: 0
+umbrella: 0
+backpack: 0
+cup: 1.0975529361186673
+bench: 0
+cake: 0
+couch: 0.8213465241797183
+toilet: 0
+bowl: 0
+toothbrush: 0
+cat: 0
+boat: 0
+laptop: 0
+remote: 1.4497354542300298
+book: 0
+vase: 0
+truck: 0
+stop sign: 0
+bed: 0
+dining table: 1.4497354542300298
+refrigerator: 0
+surfboard: 0
+cell phone: 0
+skateboard: 0
+oven: 0
+tv: 2.051795445557992
+bicycle: 0
+parking meter: 0
+potted plant: 0
+sports ball: 0
+motorcycle: 0
+skis: 0
+suitcase: 0
+clock: 0
+tie: 0
+fork: 0
+knife: 0
+spoon: 0
+sink: 0
+
+bicycle
+dog: 0.5289167002776546
+cow: 1.4497354542300298
+person: 0.8299466959416358
+traffic light: 1.625826713285711
+car: 1.051795445557992
+bird: 0
+bottle: 0
+apple: 0
+orange: 0
+banana: 0
+bus: 0
+handbag: 1.4497354542300298
+chair: 0
+frisbee: 0
+umbrella: 0
+backpack: 1.2278867046136734
+cup: 0
+bench: 1.2278867046136734
+cake: 0
+couch: 0
+toilet: 0
+bowl: 0
+toothbrush: 0
+cat: 0
+boat: 0
+laptop: 0
+remote: 0
+book: 0
+vase: 0
+truck: 1.2278867046136734
+stop sign: 0
+bed: 0
+dining table: 0
+refrigerator: 0
+surfboard: 0
+cell phone: 0
+skateboard: 0
+oven: 0
+tv: 0
+bicycle: 1.9268567089496922
+parking meter: 1.9268567089496922
+potted plant: 0
+sports ball: 0
+motorcycle: 1.625826713285711
+skis: 0
+suitcase: 0
+clock: 0
+tie: 0
+fork: 0
+knife: 0
+spoon: 0
+sink: 0
+
+parking meter
+dog: 0.5289167002776546
+cow: 0
+person: 0.8299466959416358
+traffic light: 0
+car: 0
+bird: 0
+bottle: 0
+apple: 0
+orange: 0
+banana: 0
+bus: 0
+handbag: 2.051795445557992
+chair: 0
+frisbee: 0
+umbrella: 0
+backpack: 0
+cup: 0
+bench: 0
+cake: 0
+couch: 0
+toilet: 0
+bowl: 0
+toothbrush: 0
+cat: 0
+boat: 0
+laptop: 0
+remote: 0
+book: 0
+vase: 0
+truck: 0
+stop sign: 0
+bed: 0
+dining table: 0
+refrigerator: 0
+surfboard: 0
+cell phone: 0
+skateboard: 0
+oven: 0
+tv: 0
+bicycle: 1.9268567089496922
+parking meter: 2.5289167002776547
+potted plant: 0
+sports ball: 0
+motorcycle: 0
+skis: 0
+suitcase: 0
+clock: 0
+tie: 0
+fork: 0
+knife: 0
+spoon: 0
+sink: 0
+
+potted plant
+dog: 0.5289167002776546
+cow: 0
+person: 0.05179544555799231
+traffic light: 0
+car: 0.5746741908383298
+bird: 0
+bottle: 0
+apple: 0
+orange: 0
+banana: 0
+bus: 0
+handbag: 0
+chair: 0.8757041865023109
+frisbee: 0
+umbrella: 0
+backpack: 0
+cup: 1.2736441951743485
+bench: 0
+cake: 0
+couch: 0.5203165285157372
+toilet: 0
+bowl: 1.2736441951743485
+toothbrush: 0
+cat: 0
+boat: 0
+laptop: 0
+remote: 0
+book: 1.2736441951743485
+vase: 1.4497354542300298
+truck: 0
+stop sign: 0
+bed: 0
+dining table: 1.1487054585660486
+refrigerator: 0
+surfboard: 0
+cell phone: 0
+skateboard: 0
+oven: 0
+tv: 0
+bicycle: 0
+parking meter: 0
+potted plant: 1.7507654498940108
+sports ball: 0
+motorcycle: 0
+skis: 0
+suitcase: 0
+clock: 0
+tie: 0
+fork: 0
+knife: 0
+spoon: 0
+sink: 0
+
+sports ball
+dog: 0.5289167002776546
+cow: 0
+person: 0.5289167002776546
+traffic light: 0
+car: 0.7507654498940111
+bird: 0
+bottle: 0
+apple: 0
+orange: 0
+banana: 0
+bus: 0
+handbag: 0
+chair: 0.7507654498940111
+frisbee: 0
+umbrella: 0
+backpack: 1.2278867046136734
+cup: 0
+bench: 0
+cake: 0
+couch: 0
+toilet: 0
+bowl: 0
+toothbrush: 0
+cat: 0
+boat: 0
+laptop: 0
+remote: 0
+book: 0
+vase: 0
+truck: 0
+stop sign: 0
+bed: 0
+dining table: 0
+refrigerator: 0
+surfboard: 0
+cell phone: 0
+skateboard: 0
+oven: 0
+tv: 0
+bicycle: 0
+parking meter: 0
+potted plant: 0
+sports ball: 1.9268567089496922
+motorcycle: 0
+skis: 0
+suitcase: 0
+clock: 0
+tie: 0
+fork: 0
+knife: 0
+spoon: 0
+sink: 0
+
+motorcycle
+dog: 0.5289167002776546
+cow: 0
+person: 0.8299466959416358
+traffic light: 0
+car: 0
+bird: 0
+bottle: 0
+apple: 0
+orange: 0
+banana: 0
+bus: 0
+handbag: 0
+chair: 0
+frisbee: 0
+umbrella: 0
+backpack: 0
+cup: 0
+bench: 1.5289167002776545
+cake: 0
+couch: 0
+toilet: 0
+bowl: 0
+toothbrush: 0
+cat: 0
+boat: 0
+laptop: 0
+remote: 0
+book: 0
+vase: 0
+truck: 0
+stop sign: 0
+bed: 0
+dining table: 0
+refrigerator: 0
+surfboard: 0
+cell phone: 0
+skateboard: 0
+oven: 0
+tv: 0
+bicycle: 1.625826713285711
+parking meter: 0
+potted plant: 0
+sports ball: 0
+motorcycle: 2.2278867046136734
+skis: 0
+suitcase: 0
+clock: 0
+tie: 0
+fork: 0
+knife: 0
+spoon: 0
+sink: 0
+
+skis
+dog: 0.5289167002776546
+cow: 0
+person: 0.8299466959416358
+traffic light: 0
+car: 0
+bird: 0
+bottle: 0
+apple: 0
+orange: 0
+banana: 0
+bus: 0
+handbag: 0
+chair: 0
+frisbee: 0
+umbrella: 0
+backpack: 0
+cup: 0
+bench: 0
+cake: 0
+couch: 0
+toilet: 0
+bowl: 0
+toothbrush: 0
+cat: 0
+boat: 0
+laptop: 0
+remote: 0
+book: 0
+vase: 0
+truck: 0
+stop sign: 0
+bed: 0
+dining table: 0
+refrigerator: 0
+surfboard: 0
+cell phone: 0
+skateboard: 0
+oven: 0
+tv: 0
+bicycle: 0
+parking meter: 0
+potted plant: 0
+sports ball: 0
+motorcycle: 0
+skis: 2.5289167002776547
+suitcase: 0
+clock: 0
+tie: 0
+fork: 0
+knife: 0
+spoon: 0
+sink: 0
+
+suitcase
+dog: 0.5289167002776546
+cow: 0
+person: 0.5289167002776546
+traffic light: 0
+car: 0
+bird: 0
+bottle: 0
+apple: 0
+orange: 0
+banana: 0
+bus: 0
+handbag: 1.7507654498940108
+chair: 0
+frisbee: 0
+umbrella: 0
+backpack: 0
+cup: 0
+bench: 0
+cake: 0
+couch: 0
+toilet: 0
+bowl: 1.7507654498940108
+toothbrush: 0
+cat: 1.7507654498940108
+boat: 0
+laptop: 0
+remote: 0
+book: 0
+vase: 0
+truck: 0
+stop sign: 0
+bed: 0
+dining table: 0
+refrigerator: 0
+surfboard: 0
+cell phone: 0
+skateboard: 0
+oven: 0
+tv: 0
+bicycle: 0
+parking meter: 0
+potted plant: 0
+sports ball: 0
+motorcycle: 0
+skis: 0
+suitcase: 2.2278867046136734
+clock: 0
+tie: 0
+fork: 0
+knife: 0
+spoon: 0
+sink: 0
+
+clock
+dog: 0.5289167002776546
+cow: 0
+person: 0.8299466959416358
+traffic light: 0
+car: 1.051795445557992
+bird: 0
+bottle: 1.5746741908383297
+apple: 2.2278867046136734
+orange: 2.2278867046136734
+banana: 1.9268567089496922
+bus: 0
+handbag: 0
+chair: 0
+frisbee: 0
+umbrella: 0
+backpack: 0
+cup: 0
+bench: 0
+cake: 0
+couch: 0
+toilet: 0
+bowl: 0
+toothbrush: 0
+cat: 0
+boat: 0
+laptop: 0
+remote: 0
+book: 0
+vase: 0
+truck: 0
+stop sign: 0
+bed: 0
+dining table: 0
+refrigerator: 0
+surfboard: 0
+cell phone: 0
+skateboard: 0
+oven: 0
+tv: 0
+bicycle: 0
+parking meter: 0
+potted plant: 0
+sports ball: 0
+motorcycle: 0
+skis: 0
+suitcase: 0
+clock: 2.2278867046136734
+tie: 0
+fork: 0
+knife: 0
+spoon: 0
+sink: 0
+
+tie
+dog: 0.5289167002776546
+cow: 0
+person: 0
+traffic light: 0
+car: 1.3528254412219733
+bird: 0
+bottle: 0
+apple: 0
+orange: 0
+banana: 0
+bus: 0
+handbag: 0
+chair: 0
+frisbee: 0
+umbrella: 0
+backpack: 0
+cup: 0
+bench: 0
+cake: 0
+couch: 0
+toilet: 0
+bowl: 0
+toothbrush: 0
+cat: 0
+boat: 0
+laptop: 0
+remote: 0
+book: 0
+vase: 0
+truck: 0
+stop sign: 0
+bed: 0
+dining table: 0
+refrigerator: 0
+surfboard: 0
+cell phone: 0
+skateboard: 0
+oven: 0
+tv: 0
+bicycle: 0
+parking meter: 0
+potted plant: 0
+sports ball: 0
+motorcycle: 0
+skis: 0
+suitcase: 0
+clock: 0
+tie: 2.5289167002776547
+fork: 0
+knife: 0
+spoon: 0
+sink: 0
+
+fork
+dog: 0.5289167002776546
+cow: 0
+person: 0.8299466959416358
+traffic light: 0
+car: 0
+bird: 0
+bottle: 0
+apple: 0
+orange: 0
+banana: 0
+bus: 0
+handbag: 0
+chair: 0
+frisbee: 0
+umbrella: 0
+backpack: 0
+cup: 1.5746741908383297
+bench: 0
+cake: 0
+couch: 0
+toilet: 0
+bowl: 0
+toothbrush: 0
+cat: 0
+boat: 0
+laptop: 0
+remote: 0
+book: 0
+vase: 0
+truck: 0
+stop sign: 0
+bed: 0
+dining table: 0
+refrigerator: 0
+surfboard: 0
+cell phone: 0
+skateboard: 0
+oven: 0
+tv: 0
+bicycle: 0
+parking meter: 0
+potted plant: 0
+sports ball: 0
+motorcycle: 0
+skis: 0
+suitcase: 0
+clock: 0
+tie: 0
+fork: 2.5289167002776547
+knife: 2.5289167002776547
+spoon: 2.5289167002776547
+sink: 2.5289167002776547
+
+knife
+dog: 0.5289167002776546
+cow: 0
+person: 0.8299466959416358
+traffic light: 0
+car: 0
+bird: 0
+bottle: 0
+apple: 0
+orange: 0
+banana: 0
+bus: 0
+handbag: 0
+chair: 0
+frisbee: 0
+umbrella: 0
+backpack: 0
+cup: 1.5746741908383297
+bench: 0
+cake: 0
+couch: 0
+toilet: 0
+bowl: 0
+toothbrush: 0
+cat: 0
+boat: 0
+laptop: 0
+remote: 0
+book: 0
+vase: 0
+truck: 0
+stop sign: 0
+bed: 0
+dining table: 0
+refrigerator: 0
+surfboard: 0
+cell phone: 0
+skateboard: 0
+oven: 0
+tv: 0
+bicycle: 0
+parking meter: 0
+potted plant: 0
+sports ball: 0
+motorcycle: 0
+skis: 0
+suitcase: 0
+clock: 0
+tie: 0
+fork: 2.5289167002776547
+knife: 2.5289167002776547
+spoon: 2.5289167002776547
+sink: 2.5289167002776547
+
+spoon
+dog: 0.5289167002776546
+cow: 0
+person: 0.8299466959416358
+traffic light: 0
+car: 0
+bird: 0
+bottle: 0
+apple: 0
+orange: 0
+banana: 0
+bus: 0
+handbag: 0
+chair: 0
+frisbee: 0
+umbrella: 0
+backpack: 0
+cup: 1.5746741908383297
+bench: 0
+cake: 0
+couch: 0
+toilet: 0
+bowl: 0
+toothbrush: 0
+cat: 0
+boat: 0
+laptop: 0
+remote: 0
+book: 0
+vase: 0
+truck: 0
+stop sign: 0
+bed: 0
+dining table: 0
+refrigerator: 0
+surfboard: 0
+cell phone: 0
+skateboard: 0
+oven: 0
+tv: 0
+bicycle: 0
+parking meter: 0
+potted plant: 0
+sports ball: 0
+motorcycle: 0
+skis: 0
+suitcase: 0
+clock: 0
+tie: 0
+fork: 2.5289167002776547
+knife: 2.5289167002776547
+spoon: 2.5289167002776547
+sink: 2.5289167002776547
+
+sink
+dog: 0.5289167002776546
+cow: 0
+person: 0.8299466959416358
+traffic light: 0
+car: 0
+bird: 0
+bottle: 0
+apple: 0
+orange: 0
+banana: 0
+bus: 0
+handbag: 0
+chair: 0
+frisbee: 0
+umbrella: 0
+backpack: 0
+cup: 1.5746741908383297
+bench: 0
+cake: 0
+couch: 0
+toilet: 0
+bowl: 0
+toothbrush: 0
+cat: 0
+boat: 0
+laptop: 0
+remote: 0
+book: 0
+vase: 0
+truck: 0
+stop sign: 0
+bed: 0
+dining table: 0
+refrigerator: 0
+surfboard: 0
+cell phone: 0
+skateboard: 0
+oven: 0
+tv: 0
+bicycle: 0
+parking meter: 0
+potted plant: 0
+sports ball: 0
+motorcycle: 0
+skis: 0
+suitcase: 0
+clock: 0
+tie: 0
+fork: 2.5289167002776547
+knife: 2.5289167002776547
+spoon: 2.5289167002776547
+sink: 2.5289167002776547
+
