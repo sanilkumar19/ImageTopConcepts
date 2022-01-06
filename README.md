@@ -12,3 +12,9 @@ Image Selected – img (13):
 Knowledge graph:
  
 ![image](https://user-images.githubusercontent.com/36981925/148311085-f784c0c7-bc75-40fc-b99b-48a1844c518e.png)
+
+# Contributors:
+
+Anudeep Sri Bathina(abathina@umassd.edu)
+Bhargavi Govardhanam(bgovardhanam@umassd.edu)
+Sharan Anil Kumar(sanilkumar@umassd.edu)
